@@ -1,0 +1,4 @@
+Para ejecutar el código abrir el archivo "Armu_Zamora_script" este contiene lo realizado en todos los tp a lo largo de la asignatura.
+
+>> Si surgen conflictos entre librerías sugiero ejecutar por separado los archivos "script_1" y "script_2" estos contienen el código
+de la primer parte y de la segunda parte (respectivamente) de la asignatura.
